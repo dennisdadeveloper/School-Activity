@@ -1,0 +1,39 @@
+.main2{
+    background-color: rgb(221, 193, 138);
+    padding-top: 50px;
+    padding-left: 45px;
+    height: 10000px;
+}
+
+.user{
+    height: 40px;
+    border-radius: 10px;
+}
+
+
+.pass{
+    margin-top: 30px;
+    height: 40px;   
+    border-radius: 10px;
+}
+.pst{
+    font-family:'Lucida Sans Unicode';
+    color: rgb(251, 255, 9);
+    font-weight: bold;
+    
+}
+
+.login{
+    margin-top: 20px;
+    width: 170px;
+    background-color: crimson;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 35px;
+}
+
+.q{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
